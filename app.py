@@ -8,5 +8,6 @@ def multiplication(a,b):
     return a*b
 
 def myfunction(ab,cd):
-    ab= "",
-    cd= ""
+    ab= 25,
+    cd= 30,
+    gd=ab+cd
