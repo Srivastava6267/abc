@@ -11,3 +11,6 @@ def myfunction(ab,cd):
     ab= 25,
     cd= 30,
     gd=ab+cd
+
+def iopl(d,f):
+    return d+f
